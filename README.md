@@ -12,10 +12,10 @@
     <img src="https://github.com/tester-002/moviesgram/blob/main/coderzarena-tel-button2.png" width="250">
   </a><br>
   <a href="https://t.me/coderzarena">
-    &nbsp;<img src="https://github.com/tester-002/moviesgram/blob/main/coderzarena-tel-button2.png" width="130" height="18">&nbsp;
+    &nbsp;<img src="https://github.com/tester-002/moviesgram/blob/main/20220206_213616_0000.png" width="130" height="18">&nbsp;
   </a>
   <a href="https://t.me/coderzarenasupport">
-    &nbsp;<img src="https://github.com/tester-002/moviesgram/blob/main/coderzarena-tel-button.png" width="130" height="18">&nbsp;
+    &nbsp;<img src="https://github.com/tester-002/moviesgram/blob/main/20220206_213758_0000.png" width="130" height="18">&nbsp;
   </a>
   <br>
   <a href="https://github.com/tester-002/moviesgram">
