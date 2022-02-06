@@ -26,7 +26,14 @@ FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "0"))
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
 #start message
-START_MSG = os.environ.get("START_MESSAGE", "Hello {first}\n\nI can store private files in Specified Channel and other users can access it from special link.")
+START_MSG = os.environ.get("START_MESSAGE", "Hey  {first}  ✨,
+usr: {username}
+
+I am from 𝐦𝐨𝐯𝐢𝐞𝐬𝐠𝐫𝐚𝐦,
+Who can send files from the moviesgram group so kindly ask which movies you want in the group chat box  with correct spelling .
+Thankyou for using me {first}💞
+MOVIESGRAM : https://t.me/+4LzTD3Dwpvc4MjY1
+Enjoy 😻")
 try:
     ADMINS=[]
     for x in (os.environ.get("ADMINS", "").split()):
@@ -35,10 +42,15 @@ except ValueError:
         raise Exception("Your Admins list does not contain valid integers.")
 
 #Force sub message 
-FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "Hello {first}\n\n<b>You need to join in my Channel/Group to use me\n\nKindly Please join Channel</b>")
+FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "Hello <i>{first}</i>\n\n<b> 😕 You need to join in my Channel/Group to use me\n\nKindly Please join Channel/Group 🥰 </b>")
 
 #set your Custom Caption here, Keep None for Disable Custom Caption
-CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", None)
+CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", "{filename}
+~ [𝙼𝙾𝚅𝙸𝙴𝚂𝙶𝚁𝙰𝙼]
+😍•••••••••••••••••••••••😍
+{𝔾ℝ𝕆𝕌ℙ} : https://t.me/+4LzTD3Dwpvc4MjY1
+😍•••••••••••••••••••••••😍
+Enjoy the file 🌺")
 
 #Set true if you want Disable your Channel Posts Share button
 if os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True':
