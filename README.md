@@ -15,14 +15,14 @@
     &nbsp;<img src="https://github.com/tester-002/moviesgram/blob/main/20220206_213616_0000.png" width="150" height="40">&nbsp;
   </a>
   <a href="https://t.me/coderzarenasupport">
-    &nbsp;<img src="https://github.com/tester-002/moviesgram/blob/main/20220206_213758_0000.png" width="130" height="18">&nbsp;
+    &nbsp;<img src="https://github.com/tester-002/moviesgram/blob/main/20220206_213758_0000.png" width="150" height="40">&nbsp;
   </a>
   <br>
   <a href="https://github.com/tester-002/moviesgram">
-    <img src="https://img.shields.io/github/stars/CodeXBotz/File-Sharing-Bot?style=social">
+    <img src="none">
   </a>
   <a href="https://github.com/CodeXBotz/File-Sharing-Bot/fork">
-    <img src="https://img.shields.io/github/forks/CodeXBotz/File-Sharing-Bot?label=Fork&style=social">
+    <img src="none">
   </a>  
 </p>
 
