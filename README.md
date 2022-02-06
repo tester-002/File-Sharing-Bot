@@ -9,7 +9,7 @@
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
   <a href="https://t.me/coderzarena">
-    <img src="https://github.com/CodeXBotz/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
+    <img src="https://github.com/tester-002/moviesgram/blob/main/coderzarena-tel-button2.png" width="250">
   </a><br>
   <a href="https://t.me/coderzarena">
     &nbsp;<img src="https://github.com/tester-002/moviesgram/blob/main/coderzarena-tel-button2.png" width="130" height="18">&nbsp;
