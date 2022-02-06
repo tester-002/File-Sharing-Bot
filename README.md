@@ -20,10 +20,7 @@
   <br>
   <a href="https://github.com/tester-002/moviesgram">
     <img src="none">
-  </a>
-  <a href="https://github.com/CodeXBotz/File-Sharing-Bot/fork">
-    <img src="none">
-  </a>  
+  </a> 
 </p>
 
 
