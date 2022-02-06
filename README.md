@@ -1,16 +1,16 @@
-# File-sharing-Bot
+# moviesgram
 
 <p align="center">
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
-  <a href="https://t.me/CodeXBotz">
+  <a href="https://t.me/coderzarena">
     <img src="https://github.com/CodeXBotz/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
   </a><br>
-  <a href="https://t.me/CodeXBotz">
+  <a href="https://t.me/coderzarena">
     &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
-  <a href="https://t.me/codexbotzsupport">
+  <a href="https://t.me/coderzarenasupport">
     &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <br>
@@ -28,7 +28,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 ##
 
-**If you need any more modes in repo or If you find out any bugs, mention in [@codexbotzsupport ](https://www.telegram.dog/codexbotzsupport)**
+**If you need any more modes in repo or If you find out any bugs, mention in [@coderzarenasupport](https://www.telegram.dog/coderzarenasupport)**
 
 ### Features
 - Fully customisable.
@@ -45,7 +45,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 ### Installation
 #### Deploy on Heroku
 **BEFORE YOU DEPLOY ON HEROKU, YOU SHOULD FORK THE REPO AND CHANGE ITS NAME TO ANYTHING ELSE**<br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tester-002/File-Sharing-Bot)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 <a href="https://youtu.be/LCrkRTMkmzE">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
@@ -111,7 +111,7 @@ python3 main.py
 
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/codexbotzsupport) For Support/Assistance And Our [Channel](https://www.telegram.dog/codexbotz) For Updates.   
+Join Our [Telegram Group](https://www.telegram.dog/coderzarenasupport) For Support/Assistance And Our [Channel](https://www.telegram.dog/coderzarena) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 
@@ -131,5 +131,4 @@ published by the Free Software Foundation, either version 3 of the License, or
 
 ##
 
-   **Star this Repo if you Liked it ⭐⭐⭐**
-
+   **Star this Repo if you Liked it ⭐😘**
