@@ -8,7 +8,7 @@ if os.path.isfile("config.env"):
     load_dotenv("config.env")
 
 
-async def genStrSession() -> None:  # pylint: disable=missing-function-docstring
+async def coderzarena() -> None:  # pylint: disable=missing-function-docstring
     async with Client(
             "🄲🄾🄳🄴🅁🅉 ΛЯΣПΛ",
             api_id=int(os.environ.get("APP_ID") or input("Enter Telegram APP ID: ")),
@@ -22,4 +22,4 @@ async def genStrSession() -> None:  # pylint: disable=missing-function-docstring
         print("Done!, Check your Saved Message for String Session!")
 
 if __name__ == "__main__":
-    asyncio.get_event_loop().run_until_complete(genStrSession())
+    asyncio.get_event_loop().run_until_complete(coderzarena())
