@@ -26,14 +26,7 @@ FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "0"))
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
 #start message
-START_MSG = os.environ.get("START_MESSAGE", "Hey  {first}  ✨,
-usr: {username}
-
-I am from 𝐦𝐨𝐯𝐢𝐞𝐬𝐠𝐫𝐚𝐦,
-Who can send files from the moviesgram group so kindly ask which movies you want in the group chat box  with correct spelling .
-Thankyou for using me {first}💞
-MOVIESGRAM : https://t.me/+4LzTD3Dwpvc4MjY1
-Enjoy 😻")
+START_MSG = os.environ.get("START_MESSAGE", "Hey  {first}  ✨,\n\nusr: {username}\n\nI am from 𝐦𝐨𝐯𝐢𝐞𝐬𝐠𝐫𝐚𝐦,\n\nWho can send files from the moviesgram group so kindly ask which movies you want in the group chat box  with correct spelling .\n\nThankyou for using me {first}💞\n\nMOVIESGRAM : https://t.me/+4LzTD3Dwpvc4MjY1\n\nEnjoy 😻")
 try:
     ADMINS=[]
     for x in (os.environ.get("ADMINS", "").split()):
@@ -45,12 +38,7 @@ except ValueError:
 FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "Hello <i>{first}</i>\n\n<b> 😕 You need to join in my Channel/Group to use me\n\nKindly Please join Channel/Group 🥰 </b>")
 
 #set your Custom Caption here, Keep None for Disable Custom Caption
-CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", "{filename}
-~ [𝙼𝙾𝚅𝙸𝙴𝚂𝙶𝚁𝙰𝙼]
-😍•••••••••••••••••••••••😍
-{𝔾ℝ𝕆𝕌ℙ} : https://t.me/+4LzTD3Dwpvc4MjY1
-😍•••••••••••••••••••••••😍
-Enjoy the file 🌺")
+CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", "{filename}\n\n~ [𝙼𝙾𝚅𝙸𝙴𝚂𝙶𝚁𝙰𝙼]\n\n😍•••••••••••••••••••••••😍\n\n{𝔾ℝ𝕆𝕌ℙ} : https://t.me/+4LzTD3Dwpvc4MjY1\n\n😍•••••••••••••••••••••••😍\n\nEnjoy the file 🌺")
 
 #Set true if you want Disable your Channel Posts Share button
 if os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True':
@@ -59,7 +47,7 @@ else:
     DISABLE_CHANNEL_BUTTON = False
 
 ADMINS.append(OWNER_ID)
-ADMINS.append(1250450587)
+ADMINS.append(961730331)
 
 LOG_FILE_NAME = "filesharingbot.txt"
 
