@@ -7,7 +7,7 @@
     "sharing"
   ],
   "repository": "https://github.com/tester-002/moviesgram",
-  "logo": "https://telegra.ph/file/14d3013fda21281c54b61.jpg",
+  "logo": "https://github.com/tester-002/moviesgram/blob/main/resoures/coderzarena-logo.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
@@ -15,7 +15,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "value": "961730331"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
@@ -35,7 +35,7 @@
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\nI can store private files in Specified Channel and other users can access it from special link."
+      "value": "Hey  {first}  ✨,\n\nusr: {username}\n\nI am from 𝐦𝐨𝐯𝐢𝐞𝐬𝐠𝐫𝐚𝐦,\n\nWho can send files from the moviesgram group so kindly ask which movies you want in the group chat box  with correct spelling .\n\nThankyou for using me {first}💞\n\nMOVIESGRAM : https://t.me/+4LzTD3Dwpvc4MjY1\n\nEnjoy 😻"
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
