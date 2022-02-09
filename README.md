@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.python.org">
-    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
+    <img src="https://github.com/tester-002/moviesgram/blob/main/resoures/coderzarena-python.jpg" width ="250">
   </a>
   <a href="https://t.me/coderzarena">
     <img src="https://github.com/tester-002/moviesgram/blob/main/resoures/codersarena.jpg" width="250">
