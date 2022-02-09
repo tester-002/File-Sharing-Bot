@@ -2,24 +2,24 @@
 
 **version updates are coming soon 
 
-# Files-sharing-Bot
+# 🄲🄾🄳🄴🅁🅉 ΛЯΣПΛ
 
 <p align="center">
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
   <a href="https://t.me/coderzarena">
-    <img src="https://github.com/tester-002/moviesgram/blob/main/coderzarena-tel-button2.png" width="250">
+    <img src="https://github.com/tester-002/moviesgram/blob/main/resoures/codersarena.jpg" width="250">
   </a><br>
   <a href="https://t.me/coderzarena">
-    &nbsp;<img src="https://github.com/tester-002/moviesgram/blob/main/chanel.png" width="150" height="40">&nbsp;
+    &nbsp;<img src="https://github.com/tester-002/moviesgram/blob/main/resoures/chanel.png" width="150" height="40">&nbsp;
   </a>
   <a href="https://t.me/coderzarenasupport">
-    &nbsp;<img src="https://github.com/tester-002/moviesgram/blob/main/support-chanel.png" width="150" height="40">&nbsp;
+    &nbsp;<img src="https://github.com/tester-002/moviesgram/blob/main/resoures/support-chanel.png" width="150" height="40">&nbsp;
   </a>
   <br>
   <a href="https://github.com/tester-002/moviesgram">
-    <img src="https://github.com/tester-002/moviesgram/blob/main/icon-github-64.png">
+    <img src="https://github.com/tester-002/moviesgram/blob/main/resoures/icon-github-64.png">
   </a> 
 </p>
 
@@ -48,7 +48,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 **BEFORE YOU DEPLOY ON HEROKU, YOU SHOULD FORK THE REPO AND CHANGE ITS NAME TO ANYTHING ELSE**<br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 <a href="https://youtu.be/LCrkRTMkmzE">
-  <img src="https://github.com/tester-002/moviesgram/blob/main/icons-youtube-logo-64.png" width="60">
+  <img src="https://github.com/tester-002/moviesgram/blob/main/resoures/icons-youtube-logo-64.png" width="60">
 </a><br>
 **Check This Tutorial Video on YouTube for any Help**<br>
 **Thanks to [Erich](https://t.me/ErichDaniken) and his [InFoTel](https://t.me/InFoTel_Group) for this Video**
@@ -58,8 +58,8 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/CodeXBotz/File-Sharing-Bot
-cd File-Sharing-Bot
+git clone https://github.com/tester-002/moviesgram
+cd moviesgram
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
@@ -87,13 +87,13 @@ python3 main.py
 * `OWNER_ID` Must enter Your Telegram Id
 * `CHANNEL_ID` Your Channel ID eg:- -100xxxxxxxx
 * `ADMINS` Optional: A space separated list of user_ids of Admins, they can only create links
-* `START_MESSAGE` Optional: start message of bot, use HTML and <a href='https://github.com/codexbotz/File-Sharing-Bot/blob/main/README.md#start_message'>fillings</a>
+* `START_MESSAGE` Optional: start message of bot, use HTML and <a href='https://github.com/tester-002/moviesgram/blob/main/README.md'>fillings</a>
 * `FORCE_SUB_MESSAGE`Optional:Force sub message of bot, use HTML and Fillings
 * `FORCE_SUB_CHANNEL` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
 
 ### Extra Variables
 
-* `CUSTOM_CAPTION` put your Custom caption text if you want Setup Custom Caption, you can use HTML and <a href='https://github.com/CodeXBotz/File-Sharing-Bot/blob/main/README.md#custom_caption'>fillings</a> for formatting (only for documents)
+* `CUSTOM_CAPTION` put your Custom caption text if you want Setup Custom Caption, you can use HTML and <a href='https://github.com/tester-002/moviesgram/blob/main/README.md#custom_caption'>fillings</a> for formatting (only for documents)
 * `DISABLE_CHANNEL_BUTTON` Put True to Disable Channel Share Button, Default if False
 
 ### Fillings
